@@ -1,0 +1,6 @@
+C:\Users\JesúsEmilio\Documents\Visual Studio 2015\Projects\Flyweight Pattern\Flyweight Pattern\bin\Debug\Flyweight Pattern.exe.config
+C:\Users\JesúsEmilio\Documents\Visual Studio 2015\Projects\Flyweight Pattern\Flyweight Pattern\bin\Debug\Flyweight Pattern.exe
+C:\Users\JesúsEmilio\Documents\Visual Studio 2015\Projects\Flyweight Pattern\Flyweight Pattern\bin\Debug\Flyweight Pattern.pdb
+C:\Users\JesúsEmilio\Documents\Visual Studio 2015\Projects\Flyweight Pattern\Flyweight Pattern\obj\Debug\Flyweight Pattern.csprojResolveAssemblyReference.cache
+C:\Users\JesúsEmilio\Documents\Visual Studio 2015\Projects\Flyweight Pattern\Flyweight Pattern\obj\Debug\Flyweight Pattern.exe
+C:\Users\JesúsEmilio\Documents\Visual Studio 2015\Projects\Flyweight Pattern\Flyweight Pattern\obj\Debug\Flyweight Pattern.pdb

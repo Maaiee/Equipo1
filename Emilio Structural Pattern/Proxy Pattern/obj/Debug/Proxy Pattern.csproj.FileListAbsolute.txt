@@ -1,0 +1,5 @@
+C:\Users\JesúsEmilio\Documents\Visual Studio 2015\Projects\Flyweight Pattern\Proxy Pattern\bin\Debug\Proxy Pattern.exe.config
+C:\Users\JesúsEmilio\Documents\Visual Studio 2015\Projects\Flyweight Pattern\Proxy Pattern\bin\Debug\Proxy Pattern.exe
+C:\Users\JesúsEmilio\Documents\Visual Studio 2015\Projects\Flyweight Pattern\Proxy Pattern\bin\Debug\Proxy Pattern.pdb
+C:\Users\JesúsEmilio\Documents\Visual Studio 2015\Projects\Flyweight Pattern\Proxy Pattern\obj\Debug\Proxy Pattern.exe
+C:\Users\JesúsEmilio\Documents\Visual Studio 2015\Projects\Flyweight Pattern\Proxy Pattern\obj\Debug\Proxy Pattern.pdb
